@@ -1,5 +1,5 @@
 
-# Machine-learning-SVD-Classification
+# Machine learning SVD Classification
 
  - Use SVD to classify the handwriting data based on requirement
 
